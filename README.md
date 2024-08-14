@@ -22,6 +22,9 @@ Explorando o conceito de Padrões de Projeto e implementando soluções que util
 ## Entidade
 - [DIO - Digital Innovation One] - (https://www.dio.me/sign-up?ref=8EJE9QGVQT)
 
+## Fonte
+[Neslihan Bozer](https://youtu.be/elBsPIKG72Y?si=mAnCyJ8ybS9wLFc2)
+
 ## Como Usar
 1. Clone este repositório.
 2. Abra o projeto na IDE ou editor de texto da sua preferência.
